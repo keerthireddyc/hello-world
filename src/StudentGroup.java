@@ -20,7 +20,7 @@ public class StudentGroup implements StudentArrayOperation {
 	 * @param length
 	 */
 	public StudentGroup(int length) {
-		this.students = new Student[length];
+		this.Students = new Student[length];
 	}
 
 	@Override
